@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -58,7 +58,7 @@
 <body>
 
     <div class="letter">
-        <img src="heart2.jpg" alt="Heart Image" class="heart-image heart1">
+        <img src="/thumus02.github.io/heart2.jpg" alt="Heart Image" class="heart-image heart1">
         <h1>Beste Liekke,</h1>
         <p>
             Jij bent bijzonder. Bijzonder leuk en speciaal. Elke keer als ik droom over de beste toekomst die ik ooit zou kunnen krijgen dan droom ik over ons. En wanneer wij samen wonen in een leuk huisje met een hondje en 2 lieve kindertjes. Wanneer deze droom waarheid wordt weet ik nog niet, maar waarschijnlijk duurt dit nog eventjes. Ik heb deze webpagina aangemaakt voor een eeuwig levende liefdesbrief, in ieder geval tot het internet uitvalt.
@@ -72,12 +72,12 @@
 
         <div class="picture-container">
             <!-- Add your pictures together here -->
-            <img src="bulga.jpg" alt="Our Picture 1">
-	    <img src="juist.jpg" alt="Our Picture 1">
-            <img src="cute.jpg" alt="Our Picture 1"><br>
+            <img src="/thumus02.github.io/bulga.jpg" alt="Our Picture 1">
+	    <img src="/thumus02.github.io/juist.jpg" alt="Our Picture 1">
+            <img src="/thumus02.github.io/cute.jpg" alt="Our Picture 1"><br>
 	    
-	    <img src="zwart-wit.jpg" alt="Our Picture 4">
-	    <img src="zwart-wit2.jpg" alt="Our Picture 4">
+	    <img src="/thumus02.github.io/zwart-wit.jpg" alt="Our Picture 4">
+	    <img src="/thumus02.github.io/zwart-wit2.jpg" alt="Our Picture 4">
             
             <!-- Add more pictures as needed -->
         </div>
@@ -86,7 +86,7 @@
             Het leukste aan jou is je glimlach; de laatste dag dat ik die zie is de laatste dag dat ik blij zal zijn (lekker cliché). Maar het is wel grotendeels waar. Je lach is verslavend, en ik zal alles doen om hem zo vaak mogelijk te kunnen zien en horen. Ik hou van je!
         </p>
 
-        <img src="heart.png" alt="Heart Image" class="heart-imagex heart1">
+        <img src="/thumus02.github.io/heart.png" alt="Heart Image" class="heart-imagex heart1">
 
         <p>
             Forever yours,
@@ -94,7 +94,7 @@
             Thomas
         </p>
 
-        <img src="heart2.jpg" alt="Heart Image" class="heart-image heart2">
+        <img src="/thumus02.github.io/heart2.jpg" alt="Heart Image" class="heart-image heart2">
     </div>
 
 </body>
