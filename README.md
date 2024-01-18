@@ -64,7 +64,7 @@
             Jij bent bijzonder. Bijzonder leuk en speciaal. Elke keer als ik droom over de beste toekomst die ik ooit zou kunnen krijgen dan droom ik over ons. En wanneer wij samen wonen in een leuk huisje met een hondje en 2 lieve kindertjes. Wanneer deze droom waarheid wordt weet ik nog niet, maar waarschijnlijk duurt dit nog eventjes. Ik heb deze webpagina aangemaakt voor een eeuwig levende liefdesbrief, in ieder geval tot het internet uitvalt.
         </p>
 
-	<img src="heart.png" alt="Heart Image" class="heart-imagex heart1">
+	<img src="/thumus02.github.io/heart.png" alt="Heart Image" class="heart-imagex heart1">
 
         <p>
             Ik wil jou bedanken, voor het altijd er voor me zijn en mij aan het lachen brengen. Samen kunnen wij ontzettend veel lol hebben, iets dat ik nog nooit met iemand anders heb gehad en ook waarschijnlijk niet zal krijgen (misschien wel als ik kinderen heb dan met hun ook). Het is de laatste tijd een beetje zwaar voor jou geweest, maar toch blijf je door gaan! Ik ben hartstikke trots op hoe jij als persoon de laatste jaren hebt ontwikkeld. Ik merk dat je meer zelfstandig, liefdevol, begripvol en een heel erg klein beetje meer optimistisch bent geworden.  Ik heb een paar foto's toegevoegd op deze site omdat die foto's mij goud waard zijn. 
