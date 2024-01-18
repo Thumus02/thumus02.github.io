@@ -56,10 +56,7 @@
     </style>
 </head>
 <body>
- 	<div class="container-lg px-3 my-5 markdown-body">
-      		{% if site.title and site.title != page.title %}
-      		<h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-      	{% endif %}
+
     <div class="letter">
         <img src="/thumus02.github.io/heart2.jpg" alt="Heart Image" class="heart-image heart1">
         <h1>Beste Liekke,</h1>
